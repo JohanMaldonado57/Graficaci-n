@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - 'Player '
+  - suelo
+  - enemigo
+  - puerta
+  - proyectil
   layers:
   - Default
   - TransparentFX

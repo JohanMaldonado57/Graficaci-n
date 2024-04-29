@@ -46,7 +46,7 @@ public class MovientoPlayer : MonoBehaviour
             anim.SetBool("saltandoIzq", false);
             if(ColisionSuelo.estaEnSuelo == true){
                 numSaltos = 0;
-                    }
+            }
         }
     }
     private void Movimiento()
